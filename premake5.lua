@@ -12,9 +12,10 @@ project "imgui"
         "imgui_draw.cpp",
         "imgui_internal.h",
         "imgui_widgets.cpp",
-        "imgui_rectpack.h",
-        "imgui_textedit.h",
-        "imgui_truetype.h",
+        "imstb_rectpack.h",
+        "imstb_textedit.h",
+        "imstb_truetype.h",
+        "imgui_tables.cpp",
         "imgui_demo.cpp"
     }
 
